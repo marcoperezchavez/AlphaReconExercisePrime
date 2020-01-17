@@ -1,0 +1,11 @@
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp3.0\AlphaRecon.AssemblyInfoInputs.cache
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp3.0\AlphaRecon.AssemblyInfo.cs
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.exe
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.deps.json
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.runtimeconfig.json
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.runtimeconfig.dev.json
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.dll
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp3.0\AlphaRecon.pdb
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp3.0\AlphaRecon.dll
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp3.0\AlphaRecon.pdb
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp3.0\AlphaRecon.csprojAssemblyReference.cache
