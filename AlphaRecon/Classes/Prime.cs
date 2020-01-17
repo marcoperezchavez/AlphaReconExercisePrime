@@ -11,7 +11,7 @@ namespace AlphaRecon.Classes
         {
             List<int> primeNumbers = new List<int>();
             int count = 0;
-            for (int i = 2; count < 100; i++)
+            for (int i = 2; count < 1000; i++)
             {
                 bool isPrime = true;
                 int divider = 2;

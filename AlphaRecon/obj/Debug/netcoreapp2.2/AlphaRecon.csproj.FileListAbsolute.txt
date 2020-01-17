@@ -1,9 +1,9 @@
-C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.AssemblyInfoInputs.cache
-C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.AssemblyInfo.cs
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp2.2\AlphaRecon.deps.json
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp2.2\AlphaRecon.runtimeconfig.json
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp2.2\AlphaRecon.runtimeconfig.dev.json
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp2.2\AlphaRecon.dll
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\bin\Debug\netcoreapp2.2\AlphaRecon.pdb
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.AssemblyInfoInputs.cache
+C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.AssemblyInfo.cs
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.dll
 C:\Users\MARCO\Documents\rep\Alpha\AlphaRecon\obj\Debug\netcoreapp2.2\AlphaRecon.pdb

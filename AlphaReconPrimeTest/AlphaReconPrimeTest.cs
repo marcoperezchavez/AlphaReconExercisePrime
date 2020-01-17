@@ -11,7 +11,7 @@ namespace AlphaReconPrimeTest
         public void CountResultListPrime100FirstNumbers()
         {
             IPrime prime = new Prime();
-            int resultado = 100;
+            int resultado = 1000;
 
             var listPrime = prime.Get1000FirstPrimeNumber();
 
